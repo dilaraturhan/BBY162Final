@@ -1,0 +1,6 @@
+sefiller = victor = 2010
+suc ve ceza = dostoyevski = 2011
+beyaz dis = jonh London = 2001
+ana = gorki = 1999
+kuyucakli yusuf = sabahattin ali = 1998
+
